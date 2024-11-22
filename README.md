@@ -1,2 +1,0 @@
-# Sustentacion
-Patrones código 
